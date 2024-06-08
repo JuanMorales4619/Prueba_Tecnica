@@ -13,3 +13,8 @@ Resoluciuon de la prueba tecnica de Quipux realizada a través de HackerRank. Lo
 2. [Climbing the Leaderboard](./ClimbingLeaderboard.py)
 3. [Even Tree](./EvenTree.py)
 4. [The Maximum Subarray](./TheMaximumSubarray.py)
+
+
+Realizado Por Juan Pablo Morales Gomez
+
+Usuario de hackerrank: [@jmoralesgomez011](https://www.hackerrank.com/profile/jmoralesgomez011)
